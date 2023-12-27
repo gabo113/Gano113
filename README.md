@@ -15,6 +15,6 @@
 
 <br />
 
-Hi, I'm [Gabriel Gonzalez], a Full Stack Developer 🚀 from Spain, I just start in the design and building of web applications.
+Hi, I'm [Gabriel Gonzalez], a Full Stack Developer 🚀 from Spain, I design and building of web applications.
 <br />
 <br />
